@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hi, I'm Kiara!</title>
+    <style>
+        body {
+            background-color: #fae29c;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi, I'm Kiara!</h1>
+	<h2>short for Yzzobel Kiara L. Gasco</h2>
+        <p>I am a college student of MSU-GenSan, currently taking up Bachelor of Arts in English Language Studies. I am 20 years old, straight, and I live at Polomolok, South Cotabato
+My friends refer to me as Kiara, and closer friends call me Kia; it's a cute nickname a friend from high school gave me. I spend my time doom scrolling on TikTok, watching movies, reading books, and lately, playing Valorant. These help me cope with the boredom at home, and with the stress from school.</p>
+    </div>
+</body>
+<body>
+    <div class="container">
+    <img src="subfolder/6_Image.jpg" alt="Description of the Image">
+    </div>
+</body>
+</html>
